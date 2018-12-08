@@ -1,0 +1,18 @@
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\bin\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.deps.json
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\bin\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.dll
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\bin\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.AssemblyInfoInputs.cache
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.AssemblyInfo.cs
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.dll
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\bin\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.deps.json
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\bin\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\bin\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.pdb
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.AssemblyInfoInputs.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.AssemblyInfo.cs
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Module4.Database\obj\Debug\netstandard2.0\ITShare.CSharp.Module4.Database.pdb

@@ -1,0 +1,7 @@
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\bin\Debug\ITShare.Csharp.Module5.exe.config
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\bin\Debug\ITShare.Csharp.Module5.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\bin\Debug\ITShare.Csharp.Module5.pdb
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\obj\Debug\ITShare.Csharp.Module5.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\obj\Debug\ITShare.Csharp.Module5.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\obj\Debug\ITShare.Csharp.Module5.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Csharp.Module5\obj\Debug\ITShare.Csharp.Module5.pdb

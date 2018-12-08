@@ -1,0 +1,20 @@
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\bin\Debug\ITShare.Module.WindowsFormsSample.exe.config
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\bin\Debug\ITShare.Module.WindowsFormsSample.exe
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\bin\Debug\ITShare.Module.WindowsFormsSample.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.Form1.resources
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.Properties.Resources.resources
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.csproj.GenerateResource.cache
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.exe
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\bin\Debug\ITShare.Module.WindowsFormsSample.exe.config
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\bin\Debug\ITShare.Module.WindowsFormsSample.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\bin\Debug\ITShare.Module.WindowsFormsSample.pdb
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.Form1.resources
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.Properties.Resources.resources
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.csproj.GenerateResource.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.Module.WindowsFormsSample\obj\Debug\ITShare.Module.WindowsFormsSample.pdb

@@ -1,0 +1,7 @@
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\bin\Debug\ITShare.CSharp.Colections.exe.config
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\bin\Debug\ITShare.CSharp.Colections.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\bin\Debug\ITShare.CSharp.Colections.pdb
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\obj\Debug\ITShare.CSharp.Colections.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\obj\Debug\ITShare.CSharp.Colections.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\obj\Debug\ITShare.CSharp.Colections.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.CSharp.Colections\obj\Debug\ITShare.CSharp.Colections.pdb

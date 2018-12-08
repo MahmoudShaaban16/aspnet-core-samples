@@ -1,0 +1,214 @@
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.csharp.Module4.Classes.exe.config
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.csharp.Module4.Classes.exe
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.csharp.Module4.Classes.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.exe
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\netstandard.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.AppContext.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.Concurrent.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.NonGeneric.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.Specialized.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Console.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Data.Common.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Contracts.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Debug.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Process.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Tools.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Tracing.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Drawing.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Dynamic.Runtime.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Globalization.Calendars.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Globalization.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Globalization.Extensions.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.Compression.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.IsolatedStorage.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.Pipes.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.Expressions.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.Parallel.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.Queryable.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Http.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.NameResolution.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.NetworkInformation.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Ping.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Requests.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Security.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Sockets.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.WebSockets.Client.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.WebSockets.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ObjectModel.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Reflection.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Reflection.Extensions.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Reflection.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Resources.Reader.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Resources.ResourceManager.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Resources.Writer.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Extensions.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Handles.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.InteropServices.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Numerics.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Claims.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Principal.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.SecureString.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Text.Encoding.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Text.RegularExpressions.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Overlapped.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Tasks.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Thread.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.ThreadPool.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Timer.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ValueTuple.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.ReaderWriter.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XDocument.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XmlDocument.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XmlSerializer.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XPath.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.CSharp.Module4.Database.dll
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.CSharp.Module4.Database.pdb
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.exe.config
+E:\My Projects\Courses\C#\Samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.csproj.CopyComplete
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.csharp.Module4.Classes.exe.config
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.csharp.Module4.Classes.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.csharp.Module4.Classes.pdb
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\netstandard.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.AppContext.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.Concurrent.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.NonGeneric.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Collections.Specialized.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Console.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Data.Common.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Contracts.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Debug.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Process.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Tools.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Diagnostics.Tracing.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Drawing.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Dynamic.Runtime.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Globalization.Calendars.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Globalization.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Globalization.Extensions.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.Compression.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.IsolatedStorage.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.Pipes.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.Expressions.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.Parallel.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Linq.Queryable.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Http.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.NameResolution.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.NetworkInformation.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Ping.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Requests.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Security.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.Sockets.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.WebSockets.Client.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Net.WebSockets.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ObjectModel.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Reflection.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Reflection.Extensions.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Reflection.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Resources.Reader.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Resources.ResourceManager.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Resources.Writer.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Extensions.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Handles.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.InteropServices.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Numerics.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Claims.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.Principal.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Security.SecureString.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Text.Encoding.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Text.RegularExpressions.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Overlapped.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Tasks.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Thread.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.ThreadPool.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Threading.Timer.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.ValueTuple.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.ReaderWriter.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XDocument.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XmlDocument.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XmlSerializer.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XPath.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.CSharp.Module4.Database.dll
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\bin\Debug\ITShare.CSharp.Module4.Database.pdb
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.csprojResolveAssemblyReference.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.exe.config
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.csproj.CoreCompileInputs.cache
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.csproj.CopyComplete
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.exe
+E:\My Projects\Courses\ASP.NET Core\github\aspnet-core-samples\ITShare.csharp.Module4.Classes\obj\Debug\ITShare.csharp.Module4.Classes.pdb

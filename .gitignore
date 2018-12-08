@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ITShare.CSharp.Module1.Arrays/obj/Debug/netcoreapp2.0
+/ITShare.CSharp.Module1.Arrays/obj
+/ITShare.CSharp.Module1.GenericLists/obj
+/ITShare.CSharp.Module1.Loops/obj
+/ITShare.CSharp.Module2.ExceptionHandling/obj
+/ITShare.CSharp.Module2.Methods/obj
+/ITShare.CSharp.Module1.ConditionalStatements/obj
+/ITShare.CSharp.Module3.CustomCollections/obj
+/ITShare.CSharp.Module3.Dictionary/obj
+/ITShare.CSharp.Module3.Iterators/obj
+/ITShare.csharp.Samples/bin/Debug/netcoreapp2.0
+/ITShare.csharp.Samples/obj/Debug/netcoreapp2.0
+/ITShare.csharp.Samples/obj
+/.vs/ITShare.csharp.Samples/v15/Server/sqlite3
