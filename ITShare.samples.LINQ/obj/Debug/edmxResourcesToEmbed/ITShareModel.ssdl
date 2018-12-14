@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ITShareDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderGuid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StoreId" Type="int" Nullable="false" />
+    <Property Name="CustomerId" Type="int" Nullable="false" />
+    <Property Name="BillingAddressId" Type="int" Nullable="false" />
+    <Property Name="ShippingAddressId" Type="int" />
+    <Property Name="PickupAddressId" Type="int" />
+    <Property Name="PickUpInStore" Type="bit" Nullable="false" />
+    <Property Name="OrderStatusId" Type="int" Nullable="false" />
+    <Property Name="ShippingStatusId" Type="int" Nullable="false" />
+    <Property Name="PaymentStatusId" Type="int" Nullable="false" />
+    <Property Name="PaymentMethodSystemName" Type="nvarchar(max)" />
+    <Property Name="CustomerCurrencyCode" Type="nvarchar(max)" />
+    <Property Name="CurrencyRate" Type="decimal" Precision="18" Scale="8" Nullable="false" />
+    <Property Name="CustomerTaxDisplayTypeId" Type="int" Nullable="false" />
+    <Property Name="VatNumber" Type="nvarchar(max)" />
+    <Property Name="OrderSubtotalInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OrderSubtotalExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OrderSubTotalDiscountInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OrderSubTotalDiscountExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OrderShippingInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OrderShippingExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="PaymentMethodAdditionalFeeInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="PaymentMethodAdditionalFeeExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="TaxRates" Type="nvarchar(max)" />
+    <Property Name="Deleted" Type="bit" Nullable="false" />
+    <Property Name="CreatedOnUtc" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderItemGuid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="OrderId" Type="int" Nullable="false" />
+    <Property Name="ProductId" Type="int" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="UnitPriceInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="UnitPriceExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="PriceInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="PriceExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="DiscountAmountInclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="DiscountAmountExclTax" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OriginalProductCost" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="AttributeDescription" Type="nvarchar(max)" />
+    <Property Name="AttributesXml" Type="nvarchar(max)" />
+    <Property Name="DownloadCount" Type="int" Nullable="false" />
+    <Property Name="IsDownloadActivated" Type="bit" Nullable="false" />
+    <Property Name="LicenseDownloadId" Type="int" />
+    <Property Name="ItemWeight" Type="decimal" Precision="18" Scale="4" />
+    <Property Name="RentalStartDateUtc" Type="datetime" />
+    <Property Name="RentalEndDateUtc" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductTypeId" Type="int" Nullable="false" />
+    <Property Name="ParentGroupedProductId" Type="int" Nullable="false" />
+    <Property Name="VisibleIndividually" Type="bit" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="400" Nullable="false" />
+    <Property Name="ShortDescription" Type="nvarchar(max)" />
+    <Property Name="FullDescription" Type="nvarchar(max)" />
+    <Property Name="AdminComment" Type="nvarchar(max)" />
+    <Property Name="ProductTemplateId" Type="int" Nullable="false" />
+    <Property Name="VendorId" Type="int" Nullable="false" />
+    <Property Name="ShowOnHomePage" Type="bit" Nullable="false" />
+    <Property Name="MetaKeywords" Type="nvarchar" MaxLength="400" />
+    <Property Name="MetaDescription" Type="nvarchar(max)" />
+    <Property Name="MetaTitle" Type="nvarchar" MaxLength="400" />
+    <Property Name="AllowCustomerReviews" Type="bit" Nullable="false" />
+    <Property Name="ApprovedRatingSum" Type="int" Nullable="false" />
+    <Property Name="NotApprovedRatingSum" Type="int" Nullable="false" />
+    <Property Name="ApprovedTotalReviews" Type="int" Nullable="false" />
+    <Property Name="NotApprovedTotalReviews" Type="int" Nullable="false" />
+    <Property Name="SubjectToAcl" Type="bit" Nullable="false" />
+    <Property Name="LimitedToStores" Type="bit" Nullable="false" />
+    <Property Name="Sku" Type="nvarchar" MaxLength="400" />
+    <Property Name="ManufacturerPartNumber" Type="nvarchar" MaxLength="400" />
+    <Property Name="Gtin" Type="nvarchar" MaxLength="400" />
+    <Property Name="IsGiftCard" Type="bit" Nullable="false" />
+    <Property Name="GiftCardTypeId" Type="int" Nullable="false" />
+    <Property Name="OverriddenGiftCardAmount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="RequireOtherProducts" Type="bit" Nullable="false" />
+    <Property Name="RequiredProductIds" Type="nvarchar" MaxLength="1000" />
+    <Property Name="AutomaticallyAddRequiredProducts" Type="bit" Nullable="false" />
+    <Property Name="IsDownload" Type="bit" Nullable="false" />
+    <Property Name="DownloadId" Type="int" Nullable="false" />
+    <Property Name="UnlimitedDownloads" Type="bit" Nullable="false" />
+    <Property Name="MaxNumberOfDownloads" Type="int" Nullable="false" />
+    <Property Name="DownloadExpirationDays" Type="int" />
+    <Property Name="DownloadActivationTypeId" Type="int" Nullable="false" />
+    <Property Name="HasSampleDownload" Type="bit" Nullable="false" />
+    <Property Name="SampleDownloadId" Type="int" Nullable="false" />
+    <Property Name="HasUserAgreement" Type="bit" Nullable="false" />
+    <Property Name="UserAgreementText" Type="nvarchar(max)" />
+    <Property Name="IsRecurring" Type="bit" Nullable="false" />
+    <Property Name="RecurringCycleLength" Type="int" Nullable="false" />
+    <Property Name="RecurringCyclePeriodId" Type="int" Nullable="false" />
+    <Property Name="RecurringTotalCycles" Type="int" Nullable="false" />
+    <Property Name="IsRental" Type="bit" Nullable="false" />
+    <Property Name="RentalPriceLength" Type="int" Nullable="false" />
+    <Property Name="RentalPricePeriodId" Type="int" Nullable="false" />
+    <Property Name="IsShipEnabled" Type="bit" Nullable="false" />
+    <Property Name="IsFreeShipping" Type="bit" Nullable="false" />
+    <Property Name="ShipSeparately" Type="bit" Nullable="false" />
+    <Property Name="AdditionalShippingCharge" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="DeliveryDateId" Type="int" Nullable="false" />
+    <Property Name="IsTaxExempt" Type="bit" Nullable="false" />
+    <Property Name="TaxCategoryId" Type="int" Nullable="false" />
+    <Property Name="IsTelecommunicationsOrBroadcastingOrElectronicServices" Type="bit" Nullable="false" />
+    <Property Name="ManageInventoryMethodId" Type="int" Nullable="false" />
+    <Property Name="UseMultipleWarehouses" Type="bit" Nullable="false" />
+    <Property Name="WarehouseId" Type="int" Nullable="false" />
+    <Property Name="StockQuantity" Type="int" Nullable="false" />
+    <Property Name="DisplayStockAvailability" Type="bit" Nullable="false" />
+    <Property Name="DisplayStockQuantity" Type="bit" Nullable="false" />
+    <Property Name="MinStockQuantity" Type="int" Nullable="false" />
+    <Property Name="LowStockActivityId" Type="int" Nullable="false" />
+    <Property Name="NotifyAdminForQuantityBelow" Type="int" Nullable="false" />
+    <Property Name="BackorderModeId" Type="int" Nullable="false" />
+    <Property Name="AllowBackInStockSubscriptions" Type="bit" Nullable="false" />
+    <Property Name="OrderMinimumQuantity" Type="int" Nullable="false" />
+    <Property Name="OrderMaximumQuantity" Type="int" Nullable="false" />
+    <Property Name="AllowedQuantities" Type="nvarchar" MaxLength="1000" />
+    <Property Name="AllowAddingOnlyExistingAttributeCombinations" Type="bit" Nullable="false" />
+    <Property Name="NotReturnable" Type="bit" Nullable="false" />
+    <Property Name="DisableBuyButton" Type="bit" Nullable="false" />
+    <Property Name="DisableWishlistButton" Type="bit" Nullable="false" />
+    <Property Name="AvailableForPreOrder" Type="bit" Nullable="false" />
+    <Property Name="PreOrderAvailabilityStartDateTimeUtc" Type="datetime" />
+    <Property Name="CallForPrice" Type="bit" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="OldPrice" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="ProductCost" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="SpecialPrice" Type="decimal" Precision="18" Scale="4" />
+    <Property Name="SpecialPriceStartDateTimeUtc" Type="datetime" />
+    <Property Name="SpecialPriceEndDateTimeUtc" Type="datetime" />
+    <Property Name="CustomerEntersPrice" Type="bit" Nullable="false" />
+    <Property Name="MinimumCustomerEnteredPrice" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+    <Property Name="MaximumCustomerEnteredPrice" Type="decimal" Precision="18" Scale="4" Nullable="false" />
+  </EntityType>
+  <Association Name="OrderItem_Order">
+    <End Role="Order" Type="Self.Order" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="OrderItem" Type="Self.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrderItem_Product">
+    <End Role="Product" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="OrderItem" Type="Self.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="GetProductDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="ITShareDBModelStoreContainer">
+    <EntitySet Name="Order" EntityType="Self.Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderItem" EntityType="Self.OrderItem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="OrderItem_Order" Association="Self.OrderItem_Order">
+      <End Role="Order" EntitySet="Order" />
+      <End Role="OrderItem" EntitySet="OrderItem" />
+    </AssociationSet>
+    <AssociationSet Name="OrderItem_Product" Association="Self.OrderItem_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="OrderItem" EntitySet="OrderItem" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

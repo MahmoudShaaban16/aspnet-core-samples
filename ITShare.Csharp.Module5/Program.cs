@@ -15,6 +15,12 @@ namespace ITShare.Csharp.Module5
 
             CustomersModel customer = new CustomersModel() { Name = "" };
             customer.GetBy(1);
+
+            Student mahmoud = new Student(new ITShareCourse());
+
+            mahmoud.iCourse.GetCourseNames();
+            Student ahmed = new Student(new Course());
+            ahmed.iCourse.GetCourseNames();
         }
     }
 }

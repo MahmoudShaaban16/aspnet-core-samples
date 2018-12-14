@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ITShareDBModelStoreContainer" CdmEntityContainer="ITShareDBEntities">
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="ITShareDBModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OrderGuid" ColumnName="OrderGuid" />
+          <ScalarProperty Name="StoreId" ColumnName="StoreId" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="BillingAddressId" ColumnName="BillingAddressId" />
+          <ScalarProperty Name="ShippingAddressId" ColumnName="ShippingAddressId" />
+          <ScalarProperty Name="PickupAddressId" ColumnName="PickupAddressId" />
+          <ScalarProperty Name="PickUpInStore" ColumnName="PickUpInStore" />
+          <ScalarProperty Name="OrderStatusId" ColumnName="OrderStatusId" />
+          <ScalarProperty Name="ShippingStatusId" ColumnName="ShippingStatusId" />
+          <ScalarProperty Name="PaymentStatusId" ColumnName="PaymentStatusId" />
+          <ScalarProperty Name="PaymentMethodSystemName" ColumnName="PaymentMethodSystemName" />
+          <ScalarProperty Name="CustomerCurrencyCode" ColumnName="CustomerCurrencyCode" />
+          <ScalarProperty Name="CurrencyRate" ColumnName="CurrencyRate" />
+          <ScalarProperty Name="CustomerTaxDisplayTypeId" ColumnName="CustomerTaxDisplayTypeId" />
+          <ScalarProperty Name="VatNumber" ColumnName="VatNumber" />
+          <ScalarProperty Name="OrderSubtotalInclTax" ColumnName="OrderSubtotalInclTax" />
+          <ScalarProperty Name="OrderSubtotalExclTax" ColumnName="OrderSubtotalExclTax" />
+          <ScalarProperty Name="OrderSubTotalDiscountInclTax" ColumnName="OrderSubTotalDiscountInclTax" />
+          <ScalarProperty Name="OrderSubTotalDiscountExclTax" ColumnName="OrderSubTotalDiscountExclTax" />
+          <ScalarProperty Name="OrderShippingInclTax" ColumnName="OrderShippingInclTax" />
+          <ScalarProperty Name="OrderShippingExclTax" ColumnName="OrderShippingExclTax" />
+          <ScalarProperty Name="PaymentMethodAdditionalFeeInclTax" ColumnName="PaymentMethodAdditionalFeeInclTax" />
+          <ScalarProperty Name="PaymentMethodAdditionalFeeExclTax" ColumnName="PaymentMethodAdditionalFeeExclTax" />
+          <ScalarProperty Name="TaxRates" ColumnName="TaxRates" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="CreatedOnUtc" ColumnName="CreatedOnUtc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderItems">
+      <EntityTypeMapping TypeName="ITShareDBModel.OrderItem">
+        <MappingFragment StoreEntitySet="OrderItem">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OrderItemGuid" ColumnName="OrderItemGuid" />
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="UnitPriceInclTax" ColumnName="UnitPriceInclTax" />
+          <ScalarProperty Name="UnitPriceExclTax" ColumnName="UnitPriceExclTax" />
+          <ScalarProperty Name="PriceInclTax" ColumnName="PriceInclTax" />
+          <ScalarProperty Name="PriceExclTax" ColumnName="PriceExclTax" />
+          <ScalarProperty Name="DiscountAmountInclTax" ColumnName="DiscountAmountInclTax" />
+          <ScalarProperty Name="DiscountAmountExclTax" ColumnName="DiscountAmountExclTax" />
+          <ScalarProperty Name="OriginalProductCost" ColumnName="OriginalProductCost" />
+          <ScalarProperty Name="AttributeDescription" ColumnName="AttributeDescription" />
+          <ScalarProperty Name="AttributesXml" ColumnName="AttributesXml" />
+          <ScalarProperty Name="DownloadCount" ColumnName="DownloadCount" />
+          <ScalarProperty Name="IsDownloadActivated" ColumnName="IsDownloadActivated" />
+          <ScalarProperty Name="LicenseDownloadId" ColumnName="LicenseDownloadId" />
+          <ScalarProperty Name="ItemWeight" ColumnName="ItemWeight" />
+          <ScalarProperty Name="RentalStartDateUtc" ColumnName="RentalStartDateUtc" />
+          <ScalarProperty Name="RentalEndDateUtc" ColumnName="RentalEndDateUtc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="ITShareDBModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProductTypeId" ColumnName="ProductTypeId" />
+          <ScalarProperty Name="ParentGroupedProductId" ColumnName="ParentGroupedProductId" />
+          <ScalarProperty Name="VisibleIndividually" ColumnName="VisibleIndividually" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ShortDescription" ColumnName="ShortDescription" />
+          <ScalarProperty Name="FullDescription" ColumnName="FullDescription" />
+          <ScalarProperty Name="AdminComment" ColumnName="AdminComment" />
+          <ScalarProperty Name="ProductTemplateId" ColumnName="ProductTemplateId" />
+          <ScalarProperty Name="VendorId" ColumnName="VendorId" />
+          <ScalarProperty Name="ShowOnHomePage" ColumnName="ShowOnHomePage" />
+          <ScalarProperty Name="MetaKeywords" ColumnName="MetaKeywords" />
+          <ScalarProperty Name="MetaDescription" ColumnName="MetaDescription" />
+          <ScalarProperty Name="MetaTitle" ColumnName="MetaTitle" />
+          <ScalarProperty Name="AllowCustomerReviews" ColumnName="AllowCustomerReviews" />
+          <ScalarProperty Name="ApprovedRatingSum" ColumnName="ApprovedRatingSum" />
+          <ScalarProperty Name="NotApprovedRatingSum" ColumnName="NotApprovedRatingSum" />
+          <ScalarProperty Name="ApprovedTotalReviews" ColumnName="ApprovedTotalReviews" />
+          <ScalarProperty Name="NotApprovedTotalReviews" ColumnName="NotApprovedTotalReviews" />
+          <ScalarProperty Name="SubjectToAcl" ColumnName="SubjectToAcl" />
+          <ScalarProperty Name="LimitedToStores" ColumnName="LimitedToStores" />
+          <ScalarProperty Name="Sku" ColumnName="Sku" />
+          <ScalarProperty Name="ManufacturerPartNumber" ColumnName="ManufacturerPartNumber" />
+          <ScalarProperty Name="Gtin" ColumnName="Gtin" />
+          <ScalarProperty Name="IsGiftCard" ColumnName="IsGiftCard" />
+          <ScalarProperty Name="GiftCardTypeId" ColumnName="GiftCardTypeId" />
+          <ScalarProperty Name="OverriddenGiftCardAmount" ColumnName="OverriddenGiftCardAmount" />
+          <ScalarProperty Name="RequireOtherProducts" ColumnName="RequireOtherProducts" />
+          <ScalarProperty Name="RequiredProductIds" ColumnName="RequiredProductIds" />
+          <ScalarProperty Name="AutomaticallyAddRequiredProducts" ColumnName="AutomaticallyAddRequiredProducts" />
+          <ScalarProperty Name="IsDownload" ColumnName="IsDownload" />
+          <ScalarProperty Name="DownloadId" ColumnName="DownloadId" />
+          <ScalarProperty Name="UnlimitedDownloads" ColumnName="UnlimitedDownloads" />
+          <ScalarProperty Name="MaxNumberOfDownloads" ColumnName="MaxNumberOfDownloads" />
+          <ScalarProperty Name="DownloadExpirationDays" ColumnName="DownloadExpirationDays" />
+          <ScalarProperty Name="DownloadActivationTypeId" ColumnName="DownloadActivationTypeId" />
+          <ScalarProperty Name="HasSampleDownload" ColumnName="HasSampleDownload" />
+          <ScalarProperty Name="SampleDownloadId" ColumnName="SampleDownloadId" />
+          <ScalarProperty Name="HasUserAgreement" ColumnName="HasUserAgreement" />
+          <ScalarProperty Name="UserAgreementText" ColumnName="UserAgreementText" />
+          <ScalarProperty Name="IsRecurring" ColumnName="IsRecurring" />
+          <ScalarProperty Name="RecurringCycleLength" ColumnName="RecurringCycleLength" />
+          <ScalarProperty Name="RecurringCyclePeriodId" ColumnName="RecurringCyclePeriodId" />
+          <ScalarProperty Name="RecurringTotalCycles" ColumnName="RecurringTotalCycles" />
+          <ScalarProperty Name="IsRental" ColumnName="IsRental" />
+          <ScalarProperty Name="RentalPriceLength" ColumnName="RentalPriceLength" />
+          <ScalarProperty Name="RentalPricePeriodId" ColumnName="RentalPricePeriodId" />
+          <ScalarProperty Name="IsShipEnabled" ColumnName="IsShipEnabled" />
+          <ScalarProperty Name="IsFreeShipping" ColumnName="IsFreeShipping" />
+          <ScalarProperty Name="ShipSeparately" ColumnName="ShipSeparately" />
+          <ScalarProperty Name="AdditionalShippingCharge" ColumnName="AdditionalShippingCharge" />
+          <ScalarProperty Name="DeliveryDateId" ColumnName="DeliveryDateId" />
+          <ScalarProperty Name="IsTaxExempt" ColumnName="IsTaxExempt" />
+          <ScalarProperty Name="TaxCategoryId" ColumnName="TaxCategoryId" />
+          <ScalarProperty Name="IsTelecommunicationsOrBroadcastingOrElectronicServices" ColumnName="IsTelecommunicationsOrBroadcastingOrElectronicServices" />
+          <ScalarProperty Name="ManageInventoryMethodId" ColumnName="ManageInventoryMethodId" />
+          <ScalarProperty Name="UseMultipleWarehouses" ColumnName="UseMultipleWarehouses" />
+          <ScalarProperty Name="WarehouseId" ColumnName="WarehouseId" />
+          <ScalarProperty Name="StockQuantity" ColumnName="StockQuantity" />
+          <ScalarProperty Name="DisplayStockAvailability" ColumnName="DisplayStockAvailability" />
+          <ScalarProperty Name="DisplayStockQuantity" ColumnName="DisplayStockQuantity" />
+          <ScalarProperty Name="MinStockQuantity" ColumnName="MinStockQuantity" />
+          <ScalarProperty Name="LowStockActivityId" ColumnName="LowStockActivityId" />
+          <ScalarProperty Name="NotifyAdminForQuantityBelow" ColumnName="NotifyAdminForQuantityBelow" />
+          <ScalarProperty Name="BackorderModeId" ColumnName="BackorderModeId" />
+          <ScalarProperty Name="AllowBackInStockSubscriptions" ColumnName="AllowBackInStockSubscriptions" />
+          <ScalarProperty Name="OrderMinimumQuantity" ColumnName="OrderMinimumQuantity" />
+          <ScalarProperty Name="OrderMaximumQuantity" ColumnName="OrderMaximumQuantity" />
+          <ScalarProperty Name="AllowedQuantities" ColumnName="AllowedQuantities" />
+          <ScalarProperty Name="AllowAddingOnlyExistingAttributeCombinations" ColumnName="AllowAddingOnlyExistingAttributeCombinations" />
+          <ScalarProperty Name="NotReturnable" ColumnName="NotReturnable" />
+          <ScalarProperty Name="DisableBuyButton" ColumnName="DisableBuyButton" />
+          <ScalarProperty Name="DisableWishlistButton" ColumnName="DisableWishlistButton" />
+          <ScalarProperty Name="AvailableForPreOrder" ColumnName="AvailableForPreOrder" />
+          <ScalarProperty Name="PreOrderAvailabilityStartDateTimeUtc" ColumnName="PreOrderAvailabilityStartDateTimeUtc" />
+          <ScalarProperty Name="CallForPrice" ColumnName="CallForPrice" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="OldPrice" ColumnName="OldPrice" />
+          <ScalarProperty Name="ProductCost" ColumnName="ProductCost" />
+          <ScalarProperty Name="SpecialPrice" ColumnName="SpecialPrice" />
+          <ScalarProperty Name="SpecialPriceStartDateTimeUtc" ColumnName="SpecialPriceStartDateTimeUtc" />
+          <ScalarProperty Name="SpecialPriceEndDateTimeUtc" ColumnName="SpecialPriceEndDateTimeUtc" />
+          <ScalarProperty Name="CustomerEntersPrice" ColumnName="CustomerEntersPrice" />
+          <ScalarProperty Name="MinimumCustomerEnteredPrice" ColumnName="MinimumCustomerEnteredPrice" />
+          <ScalarProperty Name="MaximumCustomerEnteredPrice" ColumnName="MaximumCustomerEnteredPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="GetProductDetails" FunctionName="ITShareDBModel.Store.GetProductDetails">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ITShareDBModel.GetProductDetails_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Column1" ColumnName="Column1" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
